@@ -1,3 +1,4 @@
 
-# Exclude credential.json
+# Exclude credential stuff
 credential.json
+token.json
